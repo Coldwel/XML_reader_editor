@@ -1,8 +1,6 @@
 import os
 import sys
-
 from PyQt5 import QtCore, QtWidgets
-
 from dark_mode import DarkMode
 from dark_mode import prettify
 
